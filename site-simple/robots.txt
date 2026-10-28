@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://cinem00d.com/sitemap.xml
